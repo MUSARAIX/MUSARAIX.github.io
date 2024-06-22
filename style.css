@@ -798,7 +798,7 @@ footer{
 
 }
 
-@media screen and (orientation: landscape) {
+@media screen (max-width: 959px) and (orientation: landscape) {
 
      .content .info h2{
     display: flex;
