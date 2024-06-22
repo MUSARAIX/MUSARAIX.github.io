@@ -736,15 +736,13 @@ footer{
         display: flex;
         flex-direction: row;
         flex-wrap:wrap;
-        max-width: 100%;
-        margin-left: 1%;
-        margin-top: 1%;
+        max-width: 90%;
         color: yellow;
         -webkit-text-stroke: 1px black;
         letter-spacing: 1px;
         font-size: 1.5rem;
         font-weight: 600;
-        margin-bottom: 1rem;
+        margin: 0;
     }
 
     
@@ -792,8 +790,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0;
-    padding-bottom: 0;
+    margin:5%
     gap: 2%;
     color: rgb(39, 5, 5);
     font-size: 0.5rem;
