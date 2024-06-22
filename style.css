@@ -698,7 +698,7 @@ footer{
     padding-bottom: 0;
     gap: 2%;
     color: rgb(39, 5, 5);
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     font-weight: 300;
 }
 
@@ -773,7 +773,7 @@ footer{
 .context{
     max-width: 100%;
     align-items: center;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-weight: 500;
 }  
     
@@ -791,7 +791,7 @@ footer{
     padding-bottom: 0;
     gap: 2%;
     color: rgb(39, 5, 5);
-    font-size: 0.6rem;
+    font-size: 0.2rem;
     font-weight: 300;
 }
 
