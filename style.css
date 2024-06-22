@@ -234,14 +234,14 @@ label {
         flex-direction: row;
         flex-wrap: nowrap;
         color: firebrick;
-        -webkit-text-stroke: 3px black;
-        font-size: 5rem;
+        -webkit-text-stroke: 2px black;
+        font-size: 4.5rem;
         text-align: start;
         max-width: 100%;
         min-width: justify;
         margin: 2%;
         text-transform: capitalize;
-        font-weight: 800;
+        font-weight: 900;
         letter-spacing: 1px;
         line-height: 6rem;
     }
@@ -256,7 +256,7 @@ label {
         color:yellow;
         -webkit-text-stroke: 2px black;
         letter-spacing: 2px;
-        font-size: 4rem;
+        font-size: 3.5rem;
         font-weight: 600;
         margin-bottom: 1rem;
     }
@@ -268,7 +268,7 @@ label {
         text-decoration: none;
         text-transform: capitalize;
         font-weight: 700;
-        font-size: 4rem;
+        font-size: 3.5rem;
         letter-spacing: 2px;
         padding: 0.5rem 1rem;
         border-radius: 5px;
@@ -290,7 +290,7 @@ label {
     justify-content: space-evenly;
     align-items: center;
     color: firebrick;
-    -webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 1.5px black;
     letter-spacing: 2px;
 }
 
@@ -309,8 +309,8 @@ label {
 .cont2 p{
     margin: 10%;
     align-items: start;
-    font-size: 4rem;
-    font-weight: 500;
+    font-size: 3.5rem;
+    font-weight: 600;
 }
 
 
@@ -327,7 +327,7 @@ label {
     max-width: 100%;
     max-height: 100vh;
     color: firebrick;
-    -webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 1.5px black;
     letter-spacing: 2px;
 }
 
@@ -344,7 +344,7 @@ label {
 .context{
     max-width: 100%;
     align-items: center;
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 500;
 }
     
